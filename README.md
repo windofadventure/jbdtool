@@ -1,6 +1,22 @@
+## JBD BMS linux-based utility
 
-JBD BMS linux-based utility
+## Quick build fork
+This fork adds all the steps below into the same root Makefile.
+It also adds all the required libraries as submodules.
 
+## Preparation
+
+Under Linux:
+```sudo apt install cmake make``
+
+Under MacOS:
+```sudo brew install cmake make```
+
+## Compilation
+....
+
+
+# Original manual
 Bluetooth support requires gattlib https://github.com/labapart/gattlib
 
 build & install the library then edit the Makefile and set BLUETOOTH=yes
