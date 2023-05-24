@@ -7,10 +7,10 @@ It also adds all the required libraries as submodules.
 ## Preparation
 
 Under Linux:
-```sudo apt install cmake make``
+* ```sudo apt install cmake make```
 
 Under MacOS:
-```sudo brew install cmake make```
+* ```sudo brew install cmake make```
 
 ## Compilation
 ....
